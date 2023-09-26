@@ -1,0 +1,114 @@
+[
+	{
+		"title": "Remera",
+		"description": "Remera lisa",
+		"price": 3000,
+		"thumbnail": "Sin imagen",
+		"stock": 10,
+		"id": 1
+	},
+	{
+		"title": "Pantalon",
+		"description": "Pantalon elegante",
+		"price": 6000,
+		"thumbnail": "Sin imagen",
+		"stock": 15,
+		"id": 2
+	},
+	{
+		"title": "Campera",
+		"description": "Campera de abrigo",
+		"price": 11000,
+		"thumbnail": "Sin imagen",
+		"stock": 8,
+		"id": 3
+	},
+	{
+		"title": "zapatos",
+		"description": "Zapatos negros",
+		"price": 3500,
+		"thumbnail": "Sin imagen",
+		"stock": 12,
+		"id": 4
+	},
+	{
+		"title": "Remera con estampa",
+		"description": "Remera con dibujos",
+		"price": 3500,
+		"thumbnail": "Sin imagen",
+		"stock": 12,
+		"id": 5
+	},
+	{
+		"title": "Remera con estampa",
+		"description": "Remera con dibujos",
+		"price": 3500,
+		"thumbnail": "Sin imagen",
+		"stock": 12,
+		"id": 6
+	},
+	{
+		"title": "Remera con estampa",
+		"description": "Remera con dibujos",
+		"price": 3500,
+		"thumbnail": "Sin imagen",
+		"stock": 12,
+		"id": 7
+	},
+	{
+		"title": "Remera con estampa",
+		"description": "Remera con dibujos",
+		"price": 3500,
+		"thumbnail": "Sin imagen",
+		"stock": 12,
+		"id": 8
+	},
+	{
+		"title": "Remera con estampa",
+		"description": "Remera con dibujos",
+		"price": 3500,
+		"thumbnail": "Sin imagen",
+		"stock": 12,
+		"id": 9
+	},
+	{
+		"title": "Remera con estampa",
+		"description": "Remera con dibujos",
+		"price": 3500,
+		"thumbnail": "Sin imagen",
+		"stock": 12,
+		"id": 10
+	},
+	{
+		"title": "Remera con estampa",
+		"description": "Remera con dibujos",
+		"price": 3500,
+		"thumbnail": "Sin imagen",
+		"stock": 12,
+		"id": 11
+	},
+	{
+		"title": "Remera con estampa",
+		"description": "Remera con dibujos",
+		"price": 3500,
+		"thumbnail": "Sin imagen",
+		"stock": 12,
+		"id": 12
+	},
+	{
+		"title": "Remera con estampa",
+		"description": "Remera con dibujos",
+		"price": 3500,
+		"thumbnail": "Sin imagen",
+		"stock": 12,
+		"id": 13
+	},
+	{
+		"title": "Remera con estampa",
+		"description": "Remera con dibujos",
+		"price": 3500,
+		"thumbnail": "Sin imagen",
+		"stock": 12,
+		"id": 14
+	}
+]
